@@ -3,7 +3,7 @@
 
 **用户：**
 ![Image text](https://github.com/Dreke666/CampusMall/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20210808111748.png)
-![image](https://github.com/Dreke666/CampusMall/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20210808111748.png)
+![image](https://raw.githubusercontent.com/Dreke666/ProjectImg/main/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E5%8D%96%E9%83%A8%E5%95%86%E5%9F%8E-%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20210808111748.png)
 注册
 登录
 修改个人信息
