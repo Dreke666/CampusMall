@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 8.5.35" scope="PROVIDED"/>
+	<levels>
+		<level name="commons-fileupload-1.3.3" value="project"/>
+		<level name="Tomcat 8.5.35" value="application_server_libraries"/>
+		<level name="lib" value="project"/>
+		<level name="standard-1.1.2" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,29 @@
+.rebackgroundimg {
+  width: 100%;
+  height: auto;
+
+  background: url(../img/beijing.jpg) no-repeat;
+  background-size: cover;
+
+  box-sizing: border-box;
+}
+
+.rebackgroundimg1 {
+  width: 100%;
+  height: auto;
+
+  background: url(../img/beijing2.jpg) no-repeat;
+  background-size: cover;
+ 
+  box-sizing: border-box;
+}
+
+.rebackgroundimg2 {
+  width: 100%;
+  height: auto;
+
+  background: url(../img/beijing3.jpg) no-repeat;
+  background-size: cover;
+ 
+  box-sizing: border-box;
+}

@@ -1,0 +1,49 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>error</title>
+	<meta charset="UTF-8">
+	<style type="text/css">
+*{ padding: 0; margin: 0; }
+body{ background: #fff; font-family: '微软雅黑'; color: #333; font-size: 16px; }
+.system-message{ padding: 24px 48px; }
+.system-message h1{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+.system-message .jump{ padding-top: 10px}
+.system-message .jump a{ color: #333;}
+.system-message .success,.system-message .error{ line-height: 1.8em; font-size: 36px }
+.system-message .detail{ font-size: 12px; line-height: 20px; margin-top: 12px; display:none}
+body {
+  background: #e3f2ea; }
+#main {
+  width: 830px;
+  height: 360px;
+  margin: 0 auto;
+  margin-top: 10%; }
+#main img {
+  width: 260px;
+  height: 360px;
+  float: left; }
+#main .cont {
+  float: left;
+  margin-top: 90px;
+  margin-left: 90px; }
+#main .cont p {
+  font-size: 40px;
+  color: #FF712B; }
+#main .cont span {
+  font-size: 26px;
+  color: #999; }
+</style>
+</head>
+<body style="background: #FFF;">
+
+<div class="system-message" id="main">
+	<img src="img/error.png"/>
+	<div class="cont"><p>${msg}</p></div>
+</div>
+
+</body>
+</html>

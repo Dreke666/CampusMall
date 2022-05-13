@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebContent/WEB-INF/lib/poi-3.11-20141221.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebContent/WEB-INF/lib/poi-ooxml-3.11-20141221.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.11-20141221.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/config/AdminInterceptor.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/config/ExceptionConfig.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/config/IndexInterceptor.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/controller/AdminController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/controller/IndexController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/controller/UserController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/AdminsDao.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/GoodsDao.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/UsersDao.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/entity/Tops.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/entity/Users.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/AdminService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/CartService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/GoodService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/OrderService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/TopService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/TypeService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/service/UserService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/util/ExcelUtils.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/util/PageUtil.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/util/UploadUtil.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/sqlMapConfig.xml" charset="UTF-8" />
+  </component>
+</project>
