@@ -2,8 +2,8 @@
 
 
 **用户：**
-![Image text](https://raw.githubusercontent.com/Dreke666/ProjectImg/main/校园小卖部商城-运行截图/QQ截图20210808111748.png)
-![image](https://raw.githubusercontent.com/Dreke666/ProjectImg/main/校园小卖部商城-运行截图/QQ截图20210808111748.png)
+![Image text](https://github.com/Dreke666/CampusMall/blob/master/img/1.jpg)
+![image](https://github.com/Dreke666/CampusMall/blob/master/img/1.jpg)
 注册
 登录
 修改个人信息
