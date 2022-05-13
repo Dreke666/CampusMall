@@ -2,7 +2,7 @@
 
 
 **用户：**
-https://github.com/Dreke666/CampusMall/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20210808111748.png
+![Image text](https://github.com/Dreke666/CampusMall/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20210808111748.png)
 
 注册
 登录
