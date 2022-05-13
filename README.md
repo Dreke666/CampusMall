@@ -1,5 +1,5 @@
 **本项目包括一下模块**：
-
+毕业设计&&课设联系方式：Drake816@163.com
 
 **用户：**
 ![Image text](https://github.com/Dreke666/CampusMall/blob/master/img/1.jpg)
